@@ -1,0 +1,501 @@
+agent,name,land_type,price,location,baths,area,purpose,bed,added_days
+Green Valley Estate,Plot for Rent in Valencia Town,Plot,72000,Valencia Town,4.0,900.0,For Rent,5,277
+Zameen Estate,Upper Portion for Sale in DHA Phase 5,Upper Portion,11355000,DHA Phase 5,5.0,2100.0,For Sale,5,213
+,Lower Portion for Rent in Johar Town,Lower Portion,62000,Johar Town,5.0,300.0,For Rent,6,399
+Zameen Estate,Flat for Sale in Johar Town,Flat,5635000,Johar Town,5.0,1200.0,For Sale,6,308
+Zameen Estate,Flat for Sale in Askari 10,Flat,8608000,Askari 10,4.0,2000.0,For Sale,5,6
+Zameen Estate,Farm House for Rent in Bahria Town,Farm House,512000,Bahria Town,4.0,2300.0,For Rent,3,151
+Elite Realtors,House for Rent in Johar Town,House,124000,Johar Town,5.0,800.0,For Rent,4,115
+Punjab Housing,Upper Portion for Rent in Bahria Town,Upper Portion,168000,Bahria Town,4.0,1700.0,For Rent,3,235
+Elite Realtors,Flat for Sale in Askari 10,Flat,4249000,Askari 10,3.0,700.0,For Sale,4,106
+Zameen Estate,House for Sale in Wapda Town,House,4501000,Wapda Town,5.0,500.0,For Sale,5,386
+Prime Properties,House for Sale in Johar Town,House,6569000,Johar Town,4.0,1000.0,For Sale,3,119
+National Property Co,Upper Portion for Rent in Johar Town,Upper Portion,140000,Johar Town,4.0,2200.0,For Rent,4,208
+Trust Realtors,House for Sale in Bahria Town,House,12252000,Bahria Town,1.0,1800.0,For Sale,1,49
+National Property Co,House for Rent in Valencia Town,House,150000,Valencia Town,4.0,1300.0,For Rent,5,363
+Zameen Estate,House for Sale in Wapda Town,House,4636000,Wapda Town,2.0,900.0,For Sale,3,364
+National Property Co,House for Sale in Gulberg,House,6152000,Gulberg,4.0,600.0,For Sale,3,317
+Green Valley Estate,House for Sale in Johar Town,House,5749000,Johar Town,3.0,800.0,For Sale,4,140
+Punjab Housing,Plot for Sale in Wapda Town,Plot,2005000,Wapda Town,3.0,600.0,For Sale,2,23
+Prime Properties,House for Rent in Wapda Town,House,96000,Wapda Town,5.0,700.0,For Rent,4,284
+Trust Realtors,Upper Portion for Sale in Johar Town,Upper Portion,6416000,Johar Town,6.0,1800.0,For Sale,5,171
+Elite Realtors,Upper Portion for Rent in Gulberg,Upper Portion,72000,Gulberg,4.0,500.0,For Rent,3,396
+Zameen Estate,Flat for Sale in Wapda Town,Flat,1885000,Wapda Town,1.0,400.0,For Sale,1,279
+Prime Properties,House for Rent in Wapda Town,House,137000,Wapda Town,4.0,1400.0,For Rent,3,215
+Elite Realtors,Plot for Rent in Model Town,Plot,67000,Model Town,1.0,900.0,For Rent,2,394
+Zameen Estate,House for Rent in DHA Phase 5,House,229000,DHA Phase 5,2.0,1300.0,For Rent,3,320
+City Homes,Flat for Sale in Johar Town,Flat,3271000,Johar Town,3.0,600.0,For Sale,4,183
+Elite Realtors,Lower Portion for Sale in Model Town,Lower Portion,2887000,Model Town,1.0,700.0,For Sale,1,7
+Trust Realtors,Lower Portion for Sale in Valencia Town,Lower Portion,4712000,Valencia Town,4.0,1200.0,For Sale,5,37
+Zameen Estate,Farm House for Sale in Model Town,Farm House,14140000,Model Town,1.0,1800.0,For Sale,2,177
+Punjab Housing,House for Sale in Gulberg,House,10754000,Gulberg,5.0,1200.0,For Sale,6,224
+Trust Realtors,Plot for Rent in Model Town,Plot,106000,Model Town,5.0,1400.0,For Rent,5,12
+National Property Co,Plot for Rent in Bahria Town,Plot,125000,Bahria Town,1.0,1400.0,For Rent,2,50
+,Flat for Sale in DHA Phase 5,Flat,6271000,DHA Phase 5,3.0,800.0,For Sale,4,281
+Prime Properties,Plot for Sale in Wapda Town,Plot,2475000,Wapda Town,2.0,900.0,For Sale,1,300
+National Property Co,House for Sale in Valencia Town,House,6018000,Valencia Town,1.0,1200.0,For Sale,1,11
+Trust Realtors,House for Sale in Askari 10,House,5642000,Askari 10,5.0,300.0,For Sale,6,203
+City Homes,Flat for Sale in Model Town,Flat,7433000,Model Town,4.0,1800.0,For Sale,5,32
+Elite Realtors,House for Sale in DHA Phase 5,House,12129000,DHA Phase 5,1.0,1600.0,For Sale,1,289
+Punjab Housing,House for Sale in Valencia Town,House,5092000,Valencia Town,2.0,900.0,For Sale,2,333
+Elite Realtors,Upper Portion for Sale in Johar Town,Upper Portion,3935000,Johar Town,3.0,1100.0,For Sale,2,347
+City Homes,Lower Portion for Sale in Gulberg,Lower Portion,5232000,Gulberg,4.0,1000.0,For Sale,3,239
+Trust Realtors,Plot for Rent in Valencia Town,Plot,96000,Valencia Town,2.0,1700.0,For Rent,2,251
+Trust Realtors,Upper Portion for Rent in Wapda Town,Upper Portion,100000,Wapda Town,1.0,1900.0,For Rent,2,370
+Elite Realtors,Lower Portion for Sale in Wapda Town,Lower Portion,2645000,Wapda Town,5.0,500.0,For Sale,4,244
+National Property Co,House for Rent in Gulberg,House,167000,Gulberg,1.0,1200.0,For Rent,2,178
+Elite Realtors,Flat for Rent in Valencia Town,Flat,61000,Valencia Town,6.0,300.0,For Rent,6,301
+National Property Co,Flat for Sale in Johar Town,Flat,5427000,Johar Town,5.0,1200.0,For Sale,5,236
+Punjab Housing,House for Sale in Model Town,House,7159000,Model Town,6.0,800.0,For Sale,5,336
+Elite Realtors,Farm House for Sale in Askari 10,Farm House,10208000,Askari 10,1.0,1000.0,For Sale,2,209
+Prime Properties,Flat for Sale in Wapda Town,Flat,5064000,Wapda Town,5.0,1300.0,For Sale,5,347
+Green Valley Estate,Flat for Sale in Bahria Town,Flat,7662000,Bahria Town,6.0,1000.0,For Sale,6,17
+City Homes,House for Sale in Gulberg,House,7658000,Gulberg,2.0,1100.0,For Sale,2,14
+Prime Properties,House for Rent in Gulberg,House,280000,Gulberg,6.0,1900.0,For Rent,5,39
+Prime Properties,Lower Portion for Sale in Valencia Town,Lower Portion,6277000,Valencia Town,4.0,2000.0,For Sale,3,222
+Trust Realtors,House for Rent in Wapda Town,House,78000,Wapda Town,5.0,300.0,For Rent,5,283
+Zameen Estate,House for Rent in Gulberg,House,173000,Gulberg,3.0,1100.0,For Rent,3,86
+National Property Co,House for Sale in Wapda Town,House,10015000,Wapda Town,6.0,,For Sale,5,62
+National Property Co,Flat for Sale in Wapda Town,Flat,3935000,Wapda Town,1.0,1400.0,For Sale,1,344
+Zameen Estate,Plot for Sale in Johar Town,Plot,3046000,Johar Town,2.0,700.0,For Sale,3,300
+Punjab Housing,Flat for Sale in Johar Town,Flat,5514000,Johar Town,2.0,1600.0,For Sale,2,259
+Punjab Housing,House for Sale in Valencia Town,House,4070000,Valencia Town,1.0,600.0,For Sale,2,195
+City Homes,House for Sale in Model Town,House,3235000,Model Town,1.0,300.0,For Sale,2,168
+Green Valley Estate,Upper Portion for Sale in Bahria Town,Upper Portion,8146000,Bahria Town,3.0,1600.0,For Sale,3,8
+Elite Realtors,Plot for Rent in Wapda Town,Plot,68000,Wapda Town,2.0,1400.0,For Rent,1,75
+Elite Realtors,Plot for Sale in Model Town,Plot,6863000,Model Town,6.0,1900.0,For Sale,5,358
+Elite Realtors,Plot for Sale in Model Town,Plot,4453000,Model Town,3.0,1000.0,For Sale,4,135
+National Property Co,Farm House for Sale in Wapda Town,Farm House,14598000,Wapda Town,5.0,2100.0,For Sale,5,281
+Green Valley Estate,House for Sale in Valencia Town,House,7519000,Valencia Town,4.0,1200.0,For Sale,5,281
+Elite Realtors,Flat for Sale in Gulberg,Flat,7746000,Gulberg,2.0,1900.0,For Sale,1,123
+Trust Realtors,Flat for Sale in Johar Town,Flat,2152000,Johar Town,1.0,500.0,For Sale,1,81
+National Property Co,House for Sale in Bahria Town,House,6752000,Bahria Town,4.0,500.0,For Sale,3,276
+Trust Realtors,Upper Portion for Sale in Wapda Town,Upper Portion,5666000,Wapda Town,4.0,2000.0,For Sale,3,37
+Green Valley Estate,Flat for Rent in Johar Town,Flat,137000,Johar Town,3.0,2100.0,For Rent,2,197
+Elite Realtors,Farm House for Sale in Gulberg,Farm House,23167000,Gulberg,4.0,2300.0,For Sale,5,355
+National Property Co,Upper Portion for Sale in Wapda Town,Upper Portion,3633000,Wapda Town,5.0,1000.0,For Sale,4,284
+City Homes,Flat for Sale in Johar Town,Flat,3395000,Johar Town,6.0,300.0,For Sale,5,305
+City Homes,Lower Portion for Sale in Johar Town,Lower Portion,6628000,Johar Town,1.0,2400.0,For Sale,1,33
+Elite Realtors,Plot for Sale in Johar Town,Plot,5379000,Johar Town,6.0,1600.0,For Sale,5,79
+Trust Realtors,Upper Portion for Sale in Gulberg,Upper Portion,4486000,Gulberg,3.0,800.0,For Sale,2,110
+Punjab Housing,House for Rent in Bahria Town,House,288000,Bahria Town,2.0,1900.0,For Rent,3,116
+Elite Realtors,Flat for Sale in Askari 10,Flat,8812000,Askari 10,4.0,2200.0,For Sale,3,77
+Elite Realtors,Flat for Sale in DHA Phase 5,Flat,7407000,DHA Phase 5,6.0,900.0,For Sale,5,388
+City Homes,House for Rent in Gulberg,House,238000,Gulberg,1.0,1900.0,For Rent,2,65
+Green Valley Estate,Flat for Sale in Wapda Town,Flat,5257000,Wapda Town,1.0,2000.0,For Sale,2,283
+City Homes,Lower Portion for Sale in Bahria Town,Lower Portion,7631000,Bahria Town,4.0,1400.0,For Sale,3,234
+Punjab Housing,Plot for Sale in Wapda Town,Plot,4228000,Wapda Town,2.0,1600.0,For Sale,3,244
+City Homes,House for Rent in Wapda Town,House,86000,Wapda Town,2.0,800.0,For Rent,2,85
+City Homes,House for Sale in Wapda Town,House,9314000,Wapda Town,3.0,,For Sale,2,123
+Trust Realtors,House for Sale in Gulberg,House,14451000,Gulberg,2.0,2400.0,For Sale,2,242
+City Homes,House for Sale in DHA Phase 5,House,19030000,DHA Phase 5,4.0,2400.0,For Sale,3,119
+Zameen Estate,Lower Portion for Sale in Valencia Town,Lower Portion,5520000,Valencia Town,2.0,1900.0,For Sale,3,277
+Elite Realtors,Flat for Sale in Gulberg,Flat,2679000,Gulberg,2.0,300.0,For Sale,3,15
+Punjab Housing,House for Sale in Askari 10,House,9409000,Askari 10,6.0,8800.0,For Sale,5,29
+Zameen Estate,Plot for Sale in Bahria Town,Plot,5807000,Bahria Town,2.0,1200.0,For Sale,2,291
+City Homes,House for Sale in Bahria Town,House,19386000,Bahria Town,5.0,2400.0,For Sale,6,246
+Prime Properties,House for Sale in Askari 10,House,10789000,Askari 10,4.0,1500.0,For Sale,5,17
+Punjab Housing,Plot for Sale in Valencia Town,Plot,3995000,Valencia Town,2.0,1400.0,For Sale,2,359
+Green Valley Estate,Plot for Sale in Askari 10,Plot,3075000,Askari 10,2.0,600.0,For Sale,2,1
+Trust Realtors,Lower Portion for Sale in Askari 10,Lower Portion,7058000,Askari 10,1.0,2000.0,For Sale,2,382
+Elite Realtors,Plot for Rent in Bahria Town,Plot,99000,Bahria Town,2.0,1000.0,For Rent,2,291
+National Property Co,Flat for Rent in Valencia Town,Flat,54000,Valencia Town,3.0,500.0,For Rent,3,395
+Prime Properties,Farm House for Sale in Wapda Town,Farm House,13889000,Wapda Town,1.0,2400.0,For Sale,1,379
+National Property Co,Lower Portion for Sale in Bahria Town,Lower Portion,3610000,Bahria Town,1.0,700.0,For Sale,1,125
+Punjab Housing,Plot for Rent in Bahria Town,Plot,64000,Bahria Town,3.0,300.0,For Rent,3,302
+National Property Co,Lower Portion for Rent in Askari 10,Lower Portion,71000,Askari 10,6.0,400.0,For Rent,5,84
+National Property Co,Farm House for Rent in Gulberg,Farm House,247000,Gulberg,1.0,1200.0,For Rent,2,188
+Punjab Housing,Upper Portion for Sale in Askari 10,Upper Portion,4120000,Askari 10,5.0,500.0,For Sale,6,96
+City Homes,House for Sale in Bahria Town,House,15653000,Bahria Town,4.0,2100.0,For Sale,3,194
+Punjab Housing,Plot for Sale in Gulberg,Plot,7047000,Gulberg,6.0,1400.0,For Sale,6,348
+National Property Co,Flat for Rent in Gulberg,Flat,102000,Gulberg,3.0,1000.0,For Rent,2,174
+Trust Realtors,Plot for Sale in Gulberg,Plot,2743000,Gulberg,4.0,300.0,For Sale,4,36
+Trust Realtors,Plot for Sale in Wapda Town,Plot,4356000,Wapda Town,6.0,1300.0,For Sale,5,129
+Prime Properties,Lower Portion for Sale in Valencia Town,Lower Portion,2438000,Valencia Town,1.0,600.0,For Sale,1,314
+Punjab Housing,Lower Portion for Sale in Valencia Town,Lower Portion,7869000,Valencia Town,5.0,2400.0,For Sale,6,208
+Zameen Estate,House for Sale in Wapda Town,House,5184000,Wapda Town,4.0,900.0,For Sale,3,224
+Green Valley Estate,Plot for Rent in Bahria Town,Plot,129000,Bahria Town,3.0,1300.0,For Rent,3,172
+Trust Realtors,Plot for Rent in Valencia Town,Plot,47000,Valencia Town,3.0,300.0,For Rent,4,117
+Zameen Estate,House for Rent in Model Town,House,111000,Model Town,4.0,500.0,For Rent,4,239
+Green Valley Estate,House for Sale in Model Town,House,4711000,Model Town,1.0,700.0,For Sale,1,253
+Trust Realtors,House for Sale in Wapda Town,House,4275000,Wapda Town,5.0,400.0,For Sale,6,359
+National Property Co,Farm House for Sale in Askari 10,Farm House,17980000,Askari 10,5.0,1800.0,For Sale,4,247
+Elite Realtors,Flat for Sale in Valencia Town,Flat,7978000,Valencia Town,5.0,2300.0,For Sale,6,398
+Zameen Estate,Lower Portion for Sale in Model Town,Lower Portion,7591000,Model Town,2.0,2400.0,For Sale,3,330
+Trust Realtors,Flat for Sale in Model Town,Flat,4435000,Model Town,4.0,800.0,For Sale,4,31
+Trust Realtors,Lower Portion for Sale in Wapda Town,Lower Portion,5792000,Wapda Town,4.0,2000.0,For Sale,3,156
+Punjab Housing,Flat for Sale in Gulberg,Flat,8239000,Gulberg,7.0,1400.0,For Sale,6,153
+Trust Realtors,Farm House for Sale in Gulberg,Farm House,10119000,Gulberg,6.0,400.0,For Sale,5,1
+Zameen Estate,House for Sale in Wapda Town,House,4444000,Wapda Town,5.0,400.0,For Sale,6,72
+Punjab Housing,Plot for Sale in DHA Phase 5,Plot,8221000,DHA Phase 5,5.0,1500.0,For Sale,4,304
+Zameen Estate,Upper Portion for Sale in Gulberg,Upper Portion,6677000,Gulberg,6.0,1200.0,For Sale,5,140
+Trust Realtors,Lower Portion for Sale in Wapda Town,Lower Portion,1765000,Wapda Town,3.0,300.0,For Sale,3,59
+Green Valley Estate,Upper Portion for Rent in Valencia Town,Upper Portion,130000,Valencia Town,3.0,2300.0,For Rent,3,114
+Trust Realtors,House for Sale in Model Town,House,11714000,Model Town,4.0,1900.0,For Sale,5,109
+Punjab Housing,Flat for Sale in Johar Town,Flat,4870000,Johar Town,2.0,1400.0,For Sale,1,69
+Zameen Estate,House for Sale in Johar Town,House,12607000,Johar Town,6.0,2400.0,For Sale,5,40
+Zameen Estate,House for Sale in Wapda Town,House,9203000,Wapda Town,1.0,2400.0,For Sale,1,305
+City Homes,Plot for Rent in Model Town,Plot,155000,Model Town,4.0,2400.0,For Rent,4,329
+Green Valley Estate,Plot for Sale in DHA Phase 5,Plot,5158000,DHA Phase 5,3.0,800.0,For Sale,3,198
+Prime Properties,Farm House for Rent in Model Town,Farm House,353000,Model Town,,2200.0,For Rent,3,246
+National Property Co,Upper Portion for Sale in Johar Town,Upper Portion,5009000,Johar Town,3.0,1400.0,For Sale,3,367
+Prime Properties,Plot for Sale in Wapda Town,Plot,4719000,Wapda Town,4.0,1800.0,For Sale,3,337
+Elite Realtors,Upper Portion for Sale in Valencia Town,Upper Portion,6531000,Valencia Town,4.0,2100.0,For Sale,3,13
+Prime Properties,House for Rent in Valencia Town,House,94000,Valencia Town,4.0,600.0,For Rent,3,381
+Elite Realtors,House for Sale in Model Town,House,8330000,Model Town,4.0,1200.0,For Sale,4,26
+Elite Realtors,Plot for Sale in Gulberg,Plot,4016000,Gulberg,6.0,500.0,For Sale,5,10
+Zameen Estate,Upper Portion for Sale in Johar Town,Upper Portion,4284000,Johar Town,4.0,900.0,For Sale,4,161
+Punjab Housing,House for Sale in Bahria Town,House,11302000,Bahria Town,4.0,1200.0,For Sale,4,298
+National Property Co,Flat for Sale in Valencia Town,Flat,7646000,Valencia Town,6.0,2100.0,For Sale,6,32
+Trust Realtors,Plot for Sale in Askari 10,Plot,8218000,Askari 10,7.0,2100.0,For Sale,6,117
+City Homes,House for Sale in Askari 10,House,6889000,Askari 10,2.0,1100.0,For Sale,1,105
+Trust Realtors,Flat for Rent in Gulberg,Flat,125000,Gulberg,4.0,8000.0,For Rent,5,158
+Trust Realtors,Upper Portion for Rent in Gulberg,Upper Portion,116000,Gulberg,1.0,1400.0,For Rent,2,394
+Trust Realtors,Plot for Sale in Askari 10,Plot,7239000,Askari 10,2.0,2300.0,For Sale,2,132
+City Homes,House for Sale in Model Town,House,13989000,Model Town,5.0,2400.0,For Sale,5,83
+National Property Co,Upper Portion for Sale in Wapda Town,Upper Portion,2207000,Wapda Town,2.0,700.0,For Sale,1,48
+Punjab Housing,House for Sale in Johar Town,House,6740000,Johar Town,6.0,700.0,For Sale,6,79
+Zameen Estate,Upper Portion for Sale in Johar Town,Upper Portion,6407000,Johar Town,5.0,1800.0,For Sale,5,53
+City Homes,House for Sale in Wapda Town,House,6385000,Wapda Town,7.0,900.0,For Sale,6,229
+Green Valley Estate,Plot for Rent in Askari 10,Plot,88000,Askari 10,5.0,700.0,For Rent,5,168
+Prime Properties,Flat for Rent in Gulberg,Flat,84000,Gulberg,6.0,300.0,For Rent,6,199
+Elite Realtors,House for Sale in Askari 10,House,6648000,Askari 10,1.0,1100.0,For Sale,1,332
+National Property Co,Upper Portion for Rent in Bahria Town,Upper Portion,151000,Bahria Town,6.0,1100.0,For Rent,6,232
+Prime Properties,House for Sale in Johar Town,House,7504000,Johar Town,2.0,1500.0,For Sale,1,62
+Elite Realtors,House for Sale in Valencia Town,House,4349000,Valencia Town,3.0,700.0,For Sale,2,150
+Prime Properties,House for Sale in Valencia Town,House,7684000,Valencia Town,1.0,1800.0,For Sale,1,125
+Punjab Housing,Plot for Sale in Valencia Town,Plot,5071000,Valencia Town,3.0,1700.0,For Sale,3,330
+Prime Properties,Upper Portion for Rent in Gulberg,Upper Portion,134000,Gulberg,5.0,1300.0,For Rent,5,122
+Trust Realtors,Lower Portion for Rent in Askari 10,Lower Portion,59000,Askari 10,1.0,600.0,For Rent,2,55
+Zameen Estate,House for Sale in Valencia Town,House,8021000,Valencia Town,5.0,1400.0,For Sale,5,294
+Trust Realtors,Flat for Rent in Valencia Town,Flat,115000,Valencia Town,3.0,1700.0,For Rent,4,171
+National Property Co,House for Sale in DHA Phase 5,House,11077000,DHA Phase 5,3.0,1100.0,For Sale,4,38
+National Property Co,Plot for Sale in Wapda Town,Plot,3478000,Wapda Town,5.0,800.0,For Sale,6,275
+National Property Co,Lower Portion for Sale in Valencia Town,Lower Portion,4501000,Valencia Town,3.0,1400.0,For Sale,3,84
+Prime Properties,Plot for Rent in Askari 10,Plot,90000,Askari 10,2.0,,For Rent,3,347
+Trust Realtors,Plot for Sale in Bahria Town,Plot,6953000,Bahria Town,6.0,1100.0,For Sale,6,332
+Punjab Housing,Flat for Sale in Askari 10,Flat,5274000,Askari 10,4.0,1000.0,For Sale,4,147
+Trust Realtors,Lower Portion for Sale in DHA Phase 5,Lower Portion,6567000,DHA Phase 5,4.0,900.0,For Sale,4,222
+Trust Realtors,Flat for Rent in Johar Town,Flat,121000,Johar Town,3.0,1800.0,For Rent,2,227
+Punjab Housing,House for Rent in Wapda Town,House,116000,Wapda Town,2.0,1300.0,For Rent,2,261
+City Homes,Flat for Rent in Johar Town,Flat,94000,Johar Town,3.0,1300.0,For Rent,2,27
+Zameen Estate,House for Rent in Wapda Town,House,151000,Wapda Town,3.0,1700.0,For Rent,2,129
+Zameen Estate,House for Rent in Bahria Town,House,172000,Bahria Town,1.0,1000.0,For Rent,2,68
+Elite Realtors,House for Sale in Model Town,House,5487000,Model Town,4.0,500.0,For Sale,5,278
+National Property Co,Flat for Sale in Wapda Town,Flat,5379000,Wapda Town,1.0,2100.0,For Sale,1,27
+Punjab Housing,Plot for Rent in Wapda Town,Plot,46000,Wapda Town,5.0,400.0,For Rent,4,206
+Elite Realtors,House for Sale in Gulberg,House,12098000,Gulberg,5.0,1500.0,For Sale,6,291
+Prime Properties,Flat for Sale in Gulberg,Flat,5410000,Gulberg,4.0,800.0,For Sale,5,379
+,Lower Portion for Sale in Gulberg,Lower Portion,4281000,Gulberg,4.0,700.0,For Sale,3,115
+,Farm House for Rent in Johar Town,Farm House,87000,Johar Town,2.0,300.0,For Rent,1,3
+Trust Realtors,Flat for Sale in Model Town,Flat,9060000,Model Town,5.0,2200.0,For Sale,6,289
+Green Valley Estate,House for Rent in Gulberg,House,156000,Gulberg,1.0,1200.0,For Rent,1,0
+Punjab Housing,Upper Portion for Sale in Johar Town,Upper Portion,4468000,Johar Town,5.0,1000.0,For Sale,5,26
+Trust Realtors,House for Sale in Gulberg,House,13718000,Gulberg,4.0,1900.0,For Sale,5,396
+Elite Realtors,House for Rent in Bahria Town,House,85000,Bahria Town,1.0,,For Rent,2,345
+Trust Realtors,Lower Portion for Sale in Wapda Town,Lower Portion,4933000,Wapda Town,5.0,1500.0,For Sale,5,283
+City Homes,Flat for Sale in Askari 10,Flat,5516000,Askari 10,2.0,1300.0,For Sale,2,334
+Prime Properties,Plot for Sale in Gulberg,Plot,5542000,Gulberg,1.0,1500.0,For Sale,2,30
+Elite Realtors,Plot for Rent in Askari 10,Plot,71000,Askari 10,5.0,500.0,For Rent,5,35
+Prime Properties,Plot for Sale in Model Town,Plot,8233000,Model Town,5.0,2300.0,For Sale,6,120
+Zameen Estate,House for Sale in Bahria Town,House,7735000,Bahria Town,3.0,800.0,For Sale,2,9
+Trust Realtors,House for Rent in Gulberg,House,270000,Gulberg,5.0,1700.0,For Rent,6,355
+National Property Co,House for Rent in DHA Phase 5,House,349000,DHA Phase 5,5.0,1900.0,For Rent,6,22
+Prime Properties,House for Sale in DHA Phase 5,House,11276000,DHA Phase 5,4.0,1000.0,For Sale,5,217
+National Property Co,Upper Portion for Sale in Gulberg,Upper Portion,3235000,Gulberg,2.0,500.0,For Sale,1,341
+Zameen Estate,House for Sale in Johar Town,House,5397000,Johar Town,3.0,900.0,For Sale,2,293
+City Homes,Plot for Sale in Askari 10,Plot,7443000,Askari 10,5.0,2000.0,For Sale,5,93
+Green Valley Estate,Farm House for Sale in Bahria Town,Farm House,27436000,Bahria Town,5.0,2200.0,For Sale,6,188
+City Homes,Farm House for Sale in Askari 10,Farm House,22146000,Askari 10,6.0,2300.0,For Sale,5,219
+Green Valley Estate,Flat for Sale in Bahria Town,Flat,5085000,Bahria Town,3.0,700.0,For Sale,3,307
+National Property Co,Flat for Sale in Bahria Town,Flat,8156000,Bahria Town,3.0,1600.0,For Sale,2,170
+Zameen Estate,Lower Portion for Sale in Wapda Town,Lower Portion,3304000,Wapda Town,6.0,600.0,For Sale,6,114
+Zameen Estate,Plot for Sale in Askari 10,Plot,6166000,Askari 10,3.0,1800.0,For Sale,2,318
+Trust Realtors,Upper Portion for Sale in Model Town,Upper Portion,4915000,Model Town,4.0,1200.0,For Sale,3,354
+Punjab Housing,Lower Portion for Rent in DHA Phase 5,Lower Portion,213000,DHA Phase 5,5.0,1800.0,For Rent,6,195
+Punjab Housing,Farm House for Rent in DHA Phase 5,Farm House,476000,DHA Phase 5,5.0,1800.0,For Rent,4,11
+Elite Realtors,House for Rent in Johar Town,House,217000,Johar Town,1.0,2400.0,For Rent,2,200
+Elite Realtors,Plot for Sale in Johar Town,Plot,3700000,Johar Town,1.0,1300.0,For Sale,1,355
+Green Valley Estate,House for Sale in Valencia Town,House,5543000,Valencia Town,2.0,1000.0,For Sale,3,395
+Punjab Housing,Plot for Rent in Gulberg,Plot,141000,Gulberg,7.0,1400.0,For Rent,6,160
+Prime Properties,Lower Portion for Sale in Bahria Town,Lower Portion,4259000,Bahria Town,2.0,600.0,For Sale,3,60
+Green Valley Estate,Flat for Sale in Valencia Town,Flat,3284000,Valencia Town,5.0,500.0,For Sale,5,228
+Green Valley Estate,Flat for Sale in Bahria Town,Flat,7255000,Bahria Town,,1400.0,For Sale,2,332
+Zameen Estate,House for Sale in DHA Phase 5,House,18563000,DHA Phase 5,6.0,2100.0,For Sale,5,378
+Elite Realtors,Lower Portion for Rent in Johar Town,Lower Portion,109000,Johar Town,6.0,1400.0,For Rent,5,20
+National Property Co,House for Sale in Johar Town,House,10484000,Johar Town,3.0,2000.0,For Sale,4,116
+Punjab Housing,House for Rent in Model Town,House,133000,Model Town,6.0,600.0,For Rent,5,191
+Prime Properties,House for Sale in Valencia Town,House,6873000,Valencia Town,3.0,1200.0,For Sale,4,39
+Zameen Estate,House for Sale in Valencia Town,House,8190000,Valencia Town,3.0,1600.0,For Sale,3,354
+Punjab Housing,Flat for Sale in Gulberg,Flat,6204000,Gulberg,5.0,1000.0,For Sale,5,44
+Elite Realtors,Flat for Sale in Valencia Town,Flat,3216000,Valencia Town,6.0,300.0,For Sale,6,266
+Trust Realtors,House for Sale in Wapda Town,House,4957000,Wapda Town,7.0,400.0,For Sale,6,367
+Punjab Housing,House for Sale in DHA Phase 5,House,17567000,DHA Phase 5,3.0,2300.0,For Sale,2,274
+Trust Realtors,House for Rent in Valencia Town,House,175000,Valencia Town,5.0,1600.0,For Rent,5,305
+,Flat for Sale in Bahria Town,Flat,4760000,Bahria Town,2.0,800.0,For Sale,1,105
+Elite Realtors,House for Rent in Model Town,House,131000,Model Town,3.0,800.0,For Rent,4,330
+Prime Properties,Plot for Rent in Askari 10,Plot,53000,Askari 10,3.0,,For Rent,4,167
+Punjab Housing,House for Sale in Bahria Town,House,16997000,Bahria Town,3.0,2300.0,For Sale,3,24
+Prime Properties,House for Rent in Gulberg,House,148000,Gulberg,6.0,500.0,For Rent,6,146
+Elite Realtors,Flat for Sale in Johar Town,Flat,7321000,Johar Town,7.0,1900.0,For Sale,6,139
+City Homes,Flat for Sale in Valencia Town,Flat,2993000,Valencia Town,2.0,800.0,For Sale,1,208
+Prime Properties,House for Rent in Bahria Town,House,162000,Bahria Town,1.0,1000.0,For Rent,2,105
+Zameen Estate,House for Rent in Wapda Town,House,88000,Wapda Town,1.0,900.0,For Rent,2,184
+Punjab Housing,Upper Portion for Sale in Johar Town,Upper Portion,7746000,Johar Town,7.0,2100.0,For Sale,6,171
+Trust Realtors,House for Sale in DHA Phase 5,House,6165000,DHA Phase 5,4.0,300.0,For Sale,4,130
+Prime Properties,Flat for Sale in Wapda Town,Flat,3786000,Wapda Town,4.0,1000.0,For Sale,5,278
+Elite Realtors,Flat for Rent in Askari 10,Flat,109000,Askari 10,6.0,900.0,For Rent,5,122
+Prime Properties,House for Sale in Model Town,House,7488000,Model Town,5.0,900.0,For Sale,5,306
+National Property Co,Flat for Sale in Bahria Town,Flat,4253000,Bahria Town,2.0,700.0,For Sale,1,100
+Elite Realtors,Farm House for Sale in Bahria Town,Farm House,23727000,Bahria Town,2.0,2300.0,For Sale,1,345
+Trust Realtors,Upper Portion for Sale in Johar Town,Upper Portion,4396000,Johar Town,4.0,1100.0,For Sale,3,146
+Prime Properties,House for Sale in Model Town,House,7783000,Model Town,3.0,1200.0,For Sale,3,16
+Zameen Estate,House for Rent in Model Town,House,171000,Model Town,6.0,1100.0,For Rent,5,59
+Punjab Housing,House for Sale in Bahria Town,House,16313000,Bahria Town,2.0,2400.0,For Sale,1,322
+Green Valley Estate,Flat for Sale in Model Town,Flat,4315000,Model Town,2.0,1000.0,For Sale,3,348
+Trust Realtors,Plot for Sale in Gulberg,Plot,4360000,Gulberg,1.0,1000.0,For Sale,2,84
+National Property Co,House for Rent in Wapda Town,House,92000,Wapda Town,1.0,1000.0,For Rent,2,240
+Trust Realtors,House for Rent in Askari 10,House,141000,Askari 10,2.0,1000.0,For Rent,2,229
+Green Valley Estate,Lower Portion for Sale in Wapda Town,Lower Portion,2014000,Wapda Town,2.0,400.0,For Sale,2,53
+City Homes,House for Sale in DHA Phase 5,House,14182000,DHA Phase 5,3.0,1600.0,For Sale,4,180
+Elite Realtors,Flat for Sale in Valencia Town,Flat,2223000,Valencia Town,3.0,300.0,For Sale,3,277
+Prime Properties,Plot for Sale in DHA Phase 5,Plot,4641000,DHA Phase 5,2.0,700.0,For Sale,3,386
+Elite Realtors,House for Rent in Valencia Town,House,88000,Valencia Town,,700.0,For Rent,3,339
+City Homes,House for Sale in DHA Phase 5,House,10951000,DHA Phase 5,5.0,900.0,For Sale,5,39
+Zameen Estate,House for Sale in Model Town,House,12233000,Model Town,6.0,1900.0,For Sale,6,95
+Prime Properties,Lower Portion for Rent in DHA Phase 5,Lower Portion,180000,DHA Phase 5,4.0,1600.0,For Rent,4,174
+Punjab Housing,House for Sale in DHA Phase 5,House,19460000,DHA Phase 5,4.0,2400.0,For Sale,4,60
+City Homes,House for Sale in Wapda Town,House,6262000,Wapda Town,6.0,1000.0,For Sale,5,228
+Trust Realtors,House for Sale in Wapda Town,House,10345000,Wapda Town,6.0,2300.0,For Sale,5,3
+Elite Realtors,House for Sale in DHA Phase 5,House,4414000,DHA Phase 5,2.0,300.0,For Sale,1,45
+Trust Realtors,Plot for Sale in Valencia Town,Plot,5117000,Valencia Town,6.0,1400.0,For Sale,6,18
+Green Valley Estate,House for Sale in Gulberg,House,11873000,Gulberg,1.0,2000.0,For Sale,1,118
+Zameen Estate,Plot for Sale in Gulberg,Plot,5785000,Gulberg,2.0,1400.0,For Sale,3,304
+Prime Properties,Plot for Sale in Gulberg,Plot,9038000,Gulberg,4.0,2300.0,For Sale,4,70
+Green Valley Estate,Upper Portion for Sale in Johar Town,Upper Portion,3385000,Johar Town,2.0,900.0,For Sale,3,394
+Punjab Housing,House for Sale in Bahria Town,House,4634000,Bahria Town,2.0,300.0,For Sale,2,107
+City Homes,Upper Portion for Sale in Johar Town,Upper Portion,7281000,Johar Town,5.0,2000.0,For Sale,6,17
+Punjab Housing,Plot for Sale in Bahria Town,Plot,2344000,Bahria Town,1.0,400.0,For Sale,1,134
+Trust Realtors,House for Sale in DHA Phase 5,House,15061000,DHA Phase 5,3.0,1900.0,For Sale,2,299
+Elite Realtors,Farm House for Rent in Gulberg,Farm House,440000,Gulberg,7.0,1900.0,For Rent,6,42
+Zameen Estate,Upper Portion for Rent in Wapda Town,Upper Portion,120000,Wapda Town,5.0,2100.0,For Rent,5,28
+City Homes,House for Sale in Askari 10,House,7583000,Askari 10,1.0,1300.0,For Sale,1,339
+Trust Realtors,Lower Portion for Sale in Gulberg,Lower Portion,9422000,Gulberg,4.0,2200.0,For Sale,5,236
+National Property Co,Flat for Sale in Gulberg,Flat,5445000,Gulberg,5.0,600.0,For Sale,6,137
+National Property Co,Plot for Sale in Askari 10,Plot,4170000,Askari 10,2.0,1200.0,For Sale,1,302
+Trust Realtors,Lower Portion for Sale in Wapda Town,Lower Portion,2215000,Wapda Town,4.0,,For Sale,3,337
+Zameen Estate,Flat for Sale in Askari 10,Flat,7562000,Askari 10,3.0,1900.0,For Sale,3,143
+City Homes,Upper Portion for Sale in Valencia Town,Upper Portion,5218000,Valencia Town,1.0,1800.0,For Sale,1,224
+Zameen Estate,House for Sale in Askari 10,House,11235000,Askari 10,1.0,2000.0,For Sale,2,4
+Zameen Estate,Farm House for Sale in Valencia Town,Farm House,13385000,Valencia Town,3.0,1900.0,For Sale,2,122
+National Property Co,Plot for Sale in Johar Town,Plot,2971000,Johar Town,1.0,900.0,For Sale,2,238
+Trust Realtors,House for Rent in Johar Town,House,72000,Johar Town,2.0,400.0,For Rent,3,78
+Prime Properties,Flat for Sale in Gulberg,Flat,9543000,Gulberg,2.0,2300.0,For Sale,3,396
+Green Valley Estate,House for Rent in Bahria Town,House,209000,Bahria Town,1.0,1300.0,For Rent,2,388
+Punjab Housing,House for Sale in Wapda Town,House,3473000,Wapda Town,2.0,,For Sale,2,103
+Zameen Estate,House for Rent in Wapda Town,House,183000,Wapda Town,3.0,2300.0,For Rent,2,158
+Trust Realtors,House for Rent in Askari 10,House,299000,Askari 10,4.0,2400.0,For Rent,5,75
+National Property Co,House for Rent in Bahria Town,House,199000,Bahria Town,3.0,1200.0,For Rent,2,201
+,House for Rent in Johar Town,House,214000,Johar Town,5.0,1900.0,For Rent,6,49
+Green Valley Estate,Plot for Rent in Bahria Town,Plot,70000,Bahria Town,3.0,300.0,For Rent,4,156
+Elite Realtors,Plot for Sale in Valencia Town,Plot,3000000,Valencia Town,4.0,500.0,For Sale,5,222
+National Property Co,Plot for Rent in Gulberg,Plot,102000,Gulberg,5.0,900.0,For Rent,4,244
+Elite Realtors,House for Sale in Bahria Town,House,12602000,Bahria Town,2.0,1700.0,For Sale,2,238
+Trust Realtors,Upper Portion for Sale in Model Town,Upper Portion,3399000,Model Town,5.0,500.0,For Sale,4,88
+Zameen Estate,Plot for Sale in Valencia Town,Plot,1715000,Valencia Town,1.0,300.0,For Sale,2,316
+Prime Properties,House for Rent in Valencia Town,House,153000,Valencia Town,1.0,1700.0,For Rent,1,276
+Trust Realtors,House for Sale in DHA Phase 5,House,14975000,DHA Phase 5,3.0,1900.0,For Sale,2,301
+City Homes,Plot for Sale in Gulberg,Plot,6609000,Gulberg,1.0,1900.0,For Sale,2,187
+City Homes,House for Sale in Bahria Town,House,13697000,Bahria Town,1.0,2000.0,For Sale,1,357
+National Property Co,Flat for Sale in Gulberg,Flat,96792000,Gulberg,1.0,2000.0,For Sale,1,155
+Prime Properties,Lower Portion for Sale in Model Town,Lower Portion,6684000,Model Town,6.0,1600.0,For Sale,6,322
+Punjab Housing,House for Sale in Gulberg,House,10595000,Gulberg,3.0,1400.0,For Sale,4,81
+City Homes,House for Sale in DHA Phase 5,House,16792000,DHA Phase 5,3.0,2100.0,For Sale,3,98
+Prime Properties,Lower Portion for Sale in Model Town,Lower Portion,5516000,Model Town,7.0,1000.0,For Sale,6,210
+Trust Realtors,Plot for Sale in DHA Phase 5,Plot,3715000,DHA Phase 5,2.0,500.0,For Sale,2,222
+Prime Properties,House for Sale in Bahria Town,House,14440000,Bahria Town,3.0,1900.0,For Sale,3,298
+Zameen Estate,Upper Portion for Sale in DHA Phase 5,Upper Portion,6873000,DHA Phase 5,5.0,900.0,For Sale,6,118
+Green Valley Estate,Upper Portion for Sale in DHA Phase 5,Upper Portion,12016000,DHA Phase 5,4.0,2400.0,For Sale,4,349
+,Flat for Sale in Johar Town,Flat,4925000,Johar Town,4.0,1200.0,For Sale,3,131
+Prime Properties,Plot for Sale in Askari 10,Plot,6907000,Askari 10,2.0,2100.0,For Sale,2,213
+Green Valley Estate,House for Rent in Askari 10,House,64000,Askari 10,2.0,300.0,For Rent,1,372
+Punjab Housing,House for Rent in DHA Phase 5,House,250000,DHA Phase 5,1.0,1700.0,For Rent,1,215
+National Property Co,Plot for Sale in DHA Phase 5,Plot,5908000,DHA Phase 5,1.0,1200.0,For Sale,1,272
+Prime Properties,House for Sale in Gulberg,House,10981000,Gulberg,5.0,1300.0,For Sale,5,363
+Trust Realtors,Plot for Sale in Wapda Town,Plot,2977000,Wapda Town,3.0,800.0,For Sale,4,389
+Punjab Housing,Upper Portion for Rent in Wapda Town,Upper Portion,126000,Wapda Town,3.0,2400.0,For Rent,3,199
+National Property Co,House for Sale in Askari 10,House,9403000,Askari 10,6.0,1100.0,For Sale,5,166
+City Homes,Plot for Rent in Gulberg,Plot,143000,Gulberg,1.0,2100.0,For Rent,1,78
+Trust Realtors,House for Sale in Bahria Town,House,9767000,Bahria Town,2.0,1200.0,For Sale,2,214
+Green Valley Estate,Upper Portion for Sale in DHA Phase 5,Upper Portion,4052000,DHA Phase 5,4.0,400.0,For Sale,3,367
+Prime Properties,House for Sale in Bahria Town,House,18557000,Bahria Town,5.0,2200.0,For Sale,6,194
+Trust Realtors,Plot for Rent in DHA Phase 5,Plot,109000,DHA Phase 5,5.0,700.0,For Rent,4,139
+National Property Co,Plot for Sale in Askari 10,Plot,4643000,Askari 10,5.0,800.0,For Sale,6,42
+City Homes,Flat for Sale in Gulberg,Flat,8879000,Gulberg,3.0,2100.0,For Sale,2,155
+Punjab Housing,Plot for Rent in Askari 10,Plot,169000,Askari 10,6.0,2200.0,For Rent,6,94
+Elite Realtors,Plot for Sale in Model Town,Plot,6817000,Model Town,1.0,2300.0,For Sale,1,390
+Punjab Housing,Plot for Sale in Model Town,Plot,4205000,Model Town,3.0,1200.0,For Sale,2,211
+Trust Realtors,Farm House for Sale in Johar Town,Farm House,15069000,Johar Town,3.0,1900.0,For Sale,4,54
+Trust Realtors,Lower Portion for Rent in Askari 10,Lower Portion,82000,Askari 10,1.0,1000.0,For Rent,1,26
+Prime Properties,Flat for Sale in DHA Phase 5,Flat,12128000,DHA Phase 5,7.0,1900.0,For Sale,6,340
+Trust Realtors,Flat for Rent in DHA Phase 5,Flat,201000,DHA Phase 5,7.0,1400.0,For Rent,6,372
+Elite Realtors,House for Sale in Johar Town,House,4598000,Johar Town,5.0,400.0,For Sale,4,305
+Green Valley Estate,Farm House for Rent in Johar Town,Farm House,196000,Johar Town,2.0,1200.0,For Rent,2,49
+National Property Co,Flat for Rent in Model Town,Flat,93000,Model Town,1.0,1300.0,For Rent,1,39
+Elite Realtors,Flat for Sale in Wapda Town,Flat,3203000,Wapda Town,3.0,800.0,For Sale,4,79
+Elite Realtors,House for Rent in Model Town,House,165000,Model Town,,1100.0,For Rent,4,300
+Elite Realtors,Upper Portion for Rent in Gulberg,Upper Portion,142000,Gulberg,5.0,1400.0,For Rent,5,306
+National Property Co,Flat for Rent in Gulberg,Flat,77000,Gulberg,5.0,400.0,For Rent,4,335
+Elite Realtors,Plot for Sale in Askari 10,Plot,2543000,Askari 10,1.0,600.0,For Sale,1,38
+City Homes,House for Sale in Bahria Town,House,13539000,Bahria Town,2.0,1900.0,For Sale,1,61
+City Homes,Lower Portion for Sale in Model Town,Lower Portion,4928000,Model Town,4.0,1000.0,For Sale,5,360
+Prime Properties,House for Sale in Model Town,House,8624000,Model Town,2.0,1600.0,For Sale,1,371
+Elite Realtors,House for Sale in Askari 10,House,135180000,Askari 10,5.0,1500.0,For Sale,6,290
+Zameen Estate,Upper Portion for Sale in Wapda Town,Upper Portion,3911000,Wapda Town,1.0,1500.0,For Sale,1,42
+Zameen Estate,Lower Portion for Sale in Johar Town,Lower Portion,4883000,Johar Town,,1200.0,For Sale,5,27
+Green Valley Estate,House for Sale in Gulberg,House,11443000,Gulberg,6.0,1300.0,For Sale,6,22
+Zameen Estate,Flat for Sale in Gulberg,Flat,9370000,Gulberg,4.0,2100.0,For Sale,3,276
+Punjab Housing,Plot for Rent in Johar Town,Plot,127000,Johar Town,1.0,2400.0,For Rent,1,338
+National Property Co,Upper Portion for Rent in Bahria Town,Upper Portion,123000,Bahria Town,5.0,800.0,For Rent,6,252
+Green Valley Estate,Flat for Sale in Wapda Town,Flat,54684000,Wapda Town,1.0,1700.0,For Sale,2,104
+Elite Realtors,Flat for Sale in Bahria Town,Flat,12112000,Bahria Town,4.0,2400.0,For Sale,4,302
+Prime Properties,Plot for Rent in Wapda Town,Plot,55000,Wapda Town,6.0,300.0,For Rent,6,23
+Trust Realtors,Plot for Sale in Askari 10,Plot,7441000,Askari 10,5.0,2000.0,For Sale,5,331
+National Property Co,Farm House for Sale in Valencia Town,Farm House,9207000,Valencia Town,1.0,1300.0,For Sale,1,356
+Punjab Housing,Plot for Sale in DHA Phase 5,Plot,11531000,DHA Phase 5,5.0,2400.0,For Sale,5,287
+Zameen Estate,House for Sale in Askari 10,House,8545000,Askari 10,1.0,1500.0,For Sale,1,351
+Zameen Estate,Lower Portion for Sale in DHA Phase 5,Lower Portion,11549000,DHA Phase 5,6.0,2100.0,For Sale,5,234
+City Homes,Upper Portion for Rent in Gulberg,Upper Portion,83000,Gulberg,4.0,600.0,For Rent,4,187
+Prime Properties,Farm House for Sale in Bahria Town,Farm House,9829000,Bahria Town,3.0,,For Sale,2,128
+National Property Co,House for Sale in Bahria Town,House,16579000,Bahria Town,2.0,2300.0,For Sale,3,368
+Prime Properties,House for Rent in Bahria Town,House,208000,Bahria Town,2.0,1400.0,For Rent,1,278
+City Homes,Plot for Rent in DHA Phase 5,Plot,171000,DHA Phase 5,5.0,1500.0,For Rent,6,76
+Trust Realtors,House for Sale in Askari 10,House,4970000,Askari 10,1.0,600.0,For Sale,2,382
+National Property Co,Lower Portion for Sale in DHA Phase 5,Lower Portion,4901000,DHA Phase 5,3.0,700.0,For Sale,2,23
+Prime Properties,Flat for Sale in Johar Town,Flat,7422000,Johar Town,4.0,2100.0,For Sale,4,235
+Elite Realtors,Plot for Sale in Wapda Town,Plot,3148000,Wapda Town,5.0,900.0,For Sale,5,76
+Punjab Housing,Upper Portion for Sale in Valencia Town,Upper Portion,5175000,Valencia Town,4.0,1500.0,For Sale,4,265
+Green Valley Estate,Flat for Rent in Askari 10,Flat,106000,Askari 10,5.0,900.0,For Rent,4,165
+Trust Realtors,House for Sale in Bahria Town,House,8503000,Bahria Town,3.0,800.0,For Sale,4,174
+National Property Co,Plot for Sale in Valencia Town,Plot,3306000,Valencia Town,5.0,600.0,For Sale,6,268
+Trust Realtors,Plot for Rent in Wapda Town,Plot,109000,Wapda Town,2.0,2300.0,For Rent,3,302
+Zameen Estate,Flat for Sale in Bahria Town,Flat,12648000,Bahria Town,6.0,2300.0,For Sale,5,152
+Prime Properties,Plot for Rent in Johar Town,Plot,65000,Johar Town,4.0,500.0,For Rent,5,399
+Punjab Housing,Lower Portion for Rent in Valencia Town,Lower Portion,86000,Valencia Town,6.0,1000.0,For Rent,6,199
+Zameen Estate,Flat for Sale in Johar Town,Flat,6774000,Johar Town,,1500.0,For Sale,6,64
+City Homes,House for Sale in Bahria Town,House,10969000,Bahria Town,4.0,1100.0,For Sale,5,2
+Prime Properties,Flat for Rent in Valencia Town,Flat,115000,Valencia Town,2.0,1800.0,For Rent,2,80
+Trust Realtors,Flat for Rent in Valencia Town,Flat,82000,Valencia Town,4.0,800.0,For Rent,5,276
+Zameen Estate,House for Rent in Valencia Town,House,87000,Valencia Town,4.0,400.0,For Rent,5,215
+Prime Properties,House for Sale in Valencia Town,House,5375000,Valencia Town,1.0,1000.0,For Sale,2,135
+Prime Properties,Plot for Rent in Askari 10,Plot,135000,Askari 10,6.0,1600.0,For Rent,5,192
+Prime Properties,House for Sale in Johar Town,House,4307000,Johar Town,2.0,600.0,For Sale,2,335
+Punjab Housing,Lower Portion for Sale in Bahria Town,Lower Portion,10103000,Bahria Town,5.0,2000.0,For Sale,4,228
+City Homes,House for Sale in Model Town,House,5143000,Model Town,5.0,300.0,For Sale,5,23
+,House for Sale in Bahria Town,House,4925000,Bahria Town,1.0,400.0,For Sale,2,19
+City Homes,Farm House for Sale in Johar Town,Farm House,11639000,Johar Town,3.0,1400.0,For Sale,3,192
+Punjab Housing,Upper Portion for Sale in Wapda Town,Upper Portion,4901000,Wapda Town,6.0,1400.0,For Sale,5,161
+Green Valley Estate,House for Rent in Valencia Town,House,113000,Valencia Town,3.0,900.0,For Rent,3,340
+Green Valley Estate,House for Sale in Gulberg,House,8861000,Gulberg,5.0,800.0,For Sale,6,233
+National Property Co,House for Sale in Gulberg,House,3769000,Gulberg,1.0,400.0,For Sale,1,302
+Prime Properties,Flat for Sale in Wapda Town,Flat,5548000,Wapda Town,6.0,1700.0,For Sale,5,234
+Punjab Housing,Flat for Sale in DHA Phase 5,Flat,8004000,DHA Phase 5,5.0,1100.0,For Sale,5,138
+National Property Co,House for Rent in Model Town,House,129000,Model Town,7.0,500.0,For Rent,6,262
+National Property Co,House for Rent in Wapda Town,House,99000,Wapda Town,1.0,1100.0,For Rent,1,248
+Punjab Housing,Flat for Sale in Model Town,Flat,9307000,Model Town,5.0,2300.0,For Sale,6,288
+Green Valley Estate,Lower Portion for Rent in Johar Town,Lower Portion,70000,Johar Town,4.0,800.0,For Rent,3,75
+National Property Co,Plot for Rent in Askari 10,Plot,159000,Askari 10,4.0,2200.0,For Rent,3,256
+Punjab Housing,Flat for Sale in Gulberg,Flat,5104000,Gulberg,4.0,800.0,For Sale,3,114
+Trust Realtors,House for Rent in Wapda Town,House,98000,Wapda Town,5.0,700.0,For Rent,4,316
+Prime Properties,House for Sale in Johar Town,House,5649000,Johar Town,3.0,800.0,For Sale,4,319
+City Homes,House for Rent in DHA Phase 5,House,210000,DHA Phase 5,4.0,1000.0,For Rent,3,249
+Zameen Estate,Farm House for Sale in Model Town,Farm House,5535000,Model Town,1.0,500.0,For Sale,1,378
+Zameen Estate,Upper Portion for Sale in DHA Phase 5,Upper Portion,9799000,DHA Phase 5,7.0,1500.0,For Sale,6,215
+Elite Realtors,Lower Portion for Sale in Valencia Town,Lower Portion,3262000,Valencia Town,1.0,1000.0,For Sale,2,10
+Prime Properties,Lower Portion for Rent in Model Town,Lower Portion,112000,Model Town,1.0,1800.0,For Rent,1,242
+Elite Realtors,Lower Portion for Sale in Gulberg,Lower Portion,6322000,Gulberg,5.0,1300.0,For Sale,4,311
+Elite Realtors,Lower Portion for Sale in Johar Town,Lower Portion,4362000,Johar Town,2.0,1200.0,For Sale,3,40
+Punjab Housing,House for Sale in Model Town,House,8344000,Model Town,3.0,1300.0,For Sale,4,41
+Trust Realtors,House for Rent in Gulberg,House,174000,Gulberg,7.0,600.0,For Rent,6,109
+National Property Co,House for Sale in Gulberg,House,10695000,Gulberg,1.0,1800.0,For Sale,1,337
+Elite Realtors,Plot for Rent in Johar Town,Plot,41000,Johar Town,2.0,500.0,For Rent,2,210
+City Homes,House for Sale in Gulberg,House,13040000,Gulberg,5.0,1800.0,For Sale,4,390
+National Property Co,Upper Portion for Sale in Askari 10,Upper Portion,9661000,Askari 10,5.0,2400.0,For Sale,5,349
+Zameen Estate,Plot for Sale in DHA Phase 5,Plot,9507000,DHA Phase 5,4.0,1900.0,For Sale,4,221
+Punjab Housing,Flat for Sale in Askari 10,Flat,5999000,Askari 10,3.0,1300.0,For Sale,3,271
+Elite Realtors,House for Sale in Gulberg,House,7960000,Gulberg,4.0,900.0,For Sale,4,132
+Prime Properties,House for Rent in Model Town,House,268000,Model Town,6.0,2200.0,For Rent,6,36
+Punjab Housing,House for Sale in Bahria Town,House,8047000,Bahria Town,3.0,800.0,For Sale,3,159
+City Homes,Upper Portion for Rent in Johar Town,Upper Portion,102000,Johar Town,5.0,1300.0,For Rent,6,236
+Prime Properties,Plot for Sale in Askari 10,Plot,7477000,Askari 10,5.0,1900.0,For Sale,5,72
+Green Valley Estate,Plot for Rent in Gulberg,Plot,159000,Gulberg,3.0,2300.0,For Rent,2,88
+Prime Properties,House for Rent in Bahria Town,House,324000,Bahria Town,3.0,2300.0,For Rent,2,5
+Green Valley Estate,Flat for Rent in Model Town,Flat,68000,Model Town,4.0,400.0,For Rent,5,293
+Prime Properties,Flat for Sale in Bahria Town,Flat,10423000,Bahria Town,3.0,2200.0,For Sale,2,359
+Elite Realtors,Farm House for Rent in Gulberg,Farm House,177000,Gulberg,4.0,500.0,For Rent,3,330
+National Property Co,Farm House for Sale in Johar Town,Farm House,11296000,Johar Town,1.0,1500.0,For Sale,2,151
+Prime Properties,House for Sale in Model Town,House,13215000,Model Town,,2300.0,For Sale,4,237
+National Property Co,Lower Portion for Sale in Wapda Town,Lower Portion,4601000,Wapda Town,2.0,1700.0,For Sale,2,384
+Green Valley Estate,House for Sale in Wapda Town,House,10126000,Wapda Town,4.0,2300.0,For Sale,4,236
+Trust Realtors,Upper Portion for Rent in Askari 10,Upper Portion,118000,Askari 10,7.0,1000.0,For Rent,6,118
+Prime Properties,House for Sale in DHA Phase 5,House,10951000,DHA Phase 5,5.0,900.0,For Sale,5,135
+Green Valley Estate,House for Rent in Gulberg,House,201000,Gulberg,6.0,1000.0,For Rent,6,290
+Trust Realtors,Upper Portion for Sale in DHA Phase 5,Upper Portion,5301000,DHA Phase 5,1.0,1000.0,For Sale,1,178
+National Property Co,House for Rent in DHA Phase 5,House,303000,DHA Phase 5,4.0,1800.0,For Rent,3,334
+Prime Properties,Flat for Sale in Bahria Town,Flat,6658000,Bahria Town,3.0,1200.0,For Sale,2,345
+National Property Co,Flat for Sale in Model Town,Flat,7912000,Model Town,5.0,1900.0,For Sale,6,14
+Zameen Estate,House for Rent in Valencia Town,House,156000,Valencia Town,6.0,1200.0,For Rent,5,289
+Punjab Housing,Plot for Rent in Askari 10,Plot,72000,Askari 10,1.0,900.0,For Rent,2,147
+Elite Realtors,Upper Portion for Sale in Wapda Town,Upper Portion,2859000,Wapda Town,4.0,700.0,For Sale,4,207
+Punjab Housing,Upper Portion for Sale in Askari 10,Upper Portion,6516000,Askari 10,5.0,1500.0,For Sale,4,105
+Punjab Housing,House for Sale in Bahria Town,House,15820000,Bahria Town,2.0,2200.0,For Sale,3,147
+Zameen Estate,Flat for Sale in Askari 10,Flat,8518000,Askari 10,3.0,2100.0,For Sale,3,132
+Punjab Housing,House for Rent in Valencia Town,House,86000,Valencia Town,1.0,800.0,For Rent,1,20
+Trust Realtors,House for Rent in DHA Phase 5,House,240000,DHA Phase 5,4.0,1300.0,For Rent,3,313
+Elite Realtors,House for Sale in Johar Town,House,9433000,Johar Town,3.0,1800.0,For Sale,3,57
+City Homes,Lower Portion for Sale in Askari 10,Lower Portion,7044000,Askari 10,5.0,1600.0,For Sale,5,150
+Trust Realtors,Upper Portion for Sale in Johar Town,Upper Portion,3262000,Johar Town,7.0,400.0,For Sale,6,77
+Zameen Estate,Farm House for Rent in Askari 10,Farm House,345000,Askari 10,5.0,1600.0,For Rent,5,64
+Elite Realtors,Flat for Sale in Valencia Town,Flat,1675000,Valencia Town,2.0,300.0,For Sale,1,149
+Punjab Housing,Flat for Rent in Johar Town,Flat,73000,Johar Town,5.0,500.0,For Rent,6,367
+Elite Realtors,Flat for Sale in DHA Phase 5,Flat,9337000,DHA Phase 5,2.0,1700.0,For Sale,3,377
+Trust Realtors,Flat for Sale in Gulberg,Flat,4071000,Gulberg,4.0,500.0,For Sale,3,152
+Elite Realtors,Flat for Sale in Bahria Town,Flat,7863000,Bahria Town,7.0,1000.0,For Sale,6,202
+Trust Realtors,House for Rent in Johar Town,House,188000,Johar Town,6.0,1500.0,For Rent,6,394
+Zameen Estate,House for Sale in Model Town,House,8846000,Model Town,1.0,1700.0,For Sale,1,93
+Green Valley Estate,Lower Portion for Sale in Johar Town,Lower Portion,4195000,Johar Town,2.0,1200.0,For Sale,3,377
+Punjab Housing,Flat for Sale in Bahria Town,Flat,5743000,Bahria Town,6.0,500.0,For Sale,5,42
+Prime Properties,Lower Portion for Sale in Gulberg,Lower Portion,8726000,Gulberg,5.0,2000.0,For Sale,4,90
+Prime Properties,House for Rent in Wapda Town,House,173000,Wapda Town,1.0,2300.0,For Rent,2,135
+Green Valley Estate,Plot for Sale in DHA Phase 5,Plot,10626000,DHA Phase 5,4.0,2200.0,For Sale,4,14
+Green Valley Estate,House for Sale in Bahria Town,House,16996000,Bahria Town,6.0,1900.0,For Sale,6,326
+Punjab Housing,House for Sale in Valencia Town,House,6073000,Valencia Town,2.0,1100.0,For Sale,2,342
+Zameen Estate,House for Sale in DHA Phase 5,House,19455000,DHA Phase 5,6.0,2200.0,For Sale,5,153
+Punjab Housing,House for Sale in Johar Town,House,8019000,Johar Town,4.0,1300.0,For Sale,5,334
+Trust Realtors,Lower Portion for Sale in Bahria Town,Lower Portion,5728000,Bahria Town,5.0,600.0,For Sale,6,309
+Zameen Estate,House for Sale in DHA Phase 5,House,15578000,DHA Phase 5,,2100.0,For Sale,2,320
+Elite Realtors,Plot for Sale in Johar Town,Plot,3499000,Johar Town,3.0,1000.0,For Sale,2,321
+Elite Realtors,Flat for Sale in Model Town,Flat,8398000,Model Town,4.0,2300.0,For Sale,4,229
+Trust Realtors,Flat for Sale in Bahria Town,Flat,7187000,Bahria Town,5.0,1100.0,For Sale,4,44
+City Homes,Flat for Sale in DHA Phase 5,Flat,11470000,DHA Phase 5,3.0,2200.0,For Sale,3,369
+Elite Realtors,House for Sale in Bahria Town,House,12969000,Bahria Town,4.0,1400.0,For Sale,5,243
+Green Valley Estate,Lower Portion for Sale in Wapda Town,Lower Portion,4557000,Wapda Town,5.0,1300.0,For Sale,5,360
+Zameen Estate,Upper Portion for Sale in Askari 10,Upper Portion,3939000,Askari 10,1.0,900.0,For Sale,2,383
+National Property Co,Plot for Sale in Bahria Town,Plot,9951000,Bahria Town,6.0,2100.0,For Sale,5,74
+National Property Co,Flat for Sale in Gulberg,Flat,3104000,Gulberg,3.0,400.0,For Sale,2,160
+Green Valley Estate,House for Sale in Gulberg,House,9732000,Gulberg,4.0,1300.0,For Sale,3,76
+Green Valley Estate,Lower Portion for Sale in Gulberg,Lower Portion,4732000,Gulberg,1.0,1100.0,For Sale,1,20
+Green Valley Estate,House for Sale in Bahria Town,House,11571000,Bahria Town,2.0,1400.0,For Sale,3,386
+National Property Co,House for Sale in DHA Phase 5,House,10930000,DHA Phase 5,5.0,800.0,For Sale,6,369
+Trust Realtors,House for Sale in Model Town,House,9708000,Model Town,3.0,1700.0,For Sale,3,372
+Elite Realtors,Farm House for Sale in Gulberg,Farm House,14378000,Gulberg,5.0,1100.0,For Sale,5,353
+Elite Realtors,Plot for Rent in Gulberg,Plot,60000,Gulberg,2.0,700.0,For Rent,1,259
+Green Valley Estate,Farm House for Sale in Gulberg,Farm House,11422000,Gulberg,5.0,700.0,For Sale,4,208
+Prime Properties,Farm House for Sale in Valencia Town,Farm House,12953000,Valencia Town,2.0,1800.0,For Sale,3,396
+National Property Co,House for Sale in Model Town,House,6765000,Model Town,4.0,800.0,For Sale,5,220
+National Property Co,Lower Portion for Rent in Johar Town,Lower Portion,96000,Johar Town,6.0,900.0,For Rent,6,256
+Green Valley Estate,Flat for Sale in Bahria Town,Flat,9214000,Bahria Town,4.0,1600.0,For Sale,4,84
+City Homes,Plot for Sale in Askari 10,Plot,3700000,Askari 10,1.0,1000.0,For Sale,1,298
+City Homes,House for Sale in Valencia Town,House,6420000,Valencia Town,4.0,1100.0,For Sale,3,327
+Elite Realtors,Lower Portion for Sale in DHA Phase 5,Lower Portion,4672000,DHA Phase 5,2.0,800.0,For Sale,1,271
+Green Valley Estate,House for Sale in Valencia Town,House,5962000,Valencia Town,3.0,1000.0,For Sale,3,199
