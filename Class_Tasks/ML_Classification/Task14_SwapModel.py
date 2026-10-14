@@ -24,9 +24,9 @@ categorical_features = [c for c in X_train.columns if c not in numeric_features]
 
 preprocessor = ColumnTransformer(transformers=[
     ("num", Pipeline([("imputer", SimpleImputer(strategy="median")),
-                      ("scaler", StandardScaler())]), numeric_features),
+                    ("scaler", StandardScaler())]), numeric_features),
     ("cat", Pipeline([("imputer", SimpleImputer(strategy="most_frequent")),
-                      ("onehot", OneHotEncoder(handle_unknown="ignore"))]), categorical_features),
+                    ("onehot", OneHotEncoder(handle_unknown="ignore"))]), categorical_features),
 ], remainder="drop")
 
 rf_pipeline = Pipeline(steps=[
