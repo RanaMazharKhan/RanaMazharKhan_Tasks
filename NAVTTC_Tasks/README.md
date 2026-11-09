@@ -1,7 +1,7 @@
 # NAVTTC Tasks — AI (Machine Learning & Deep Learning), 3 Months
 
 Prepared from: `AI_MACHINE_LEARNING_DEAP_LEARNING_3_Months__NAVTTC.pdf` — **Annexure-I (List of Tasks)**
-Scope of this delivery: **Weeks 1–5, Tasks 1–52** (all tasks assigned up to Week 5, exactly as listed in the PDF).
+Scope of this delivery: **Weeks 1–7, Tasks 1–64** (all tasks assigned up to Week 7, exactly as listed in the PDF). Weeks 1–5 were delivered first; Weeks 6–7 were added later in the same format.
 
 Every task file is written the way a student would write it in class:
 
@@ -114,5 +114,33 @@ Tasks 51–52 run with **NumPy only** (gradient descent / closed-form, as taught
 
 ---
 
-## Remaining course (not in this delivery, as requested — 5 weeks only)
-Tasks 53–55 (Week 6: Decision Tree, SVM, Time Series), 56–64 (Week 7: Neural Networks / Deep Learning / CNN), 65 (Weeks 10–12: Microsoft Azure) are listed in Annexure-I and can be built in the same format next.
+## Week 06 — Machine Learning II
+
+| Task | Title | PDF link |
+|---|---|---|
+| 53 | Decision Tree | DataCamp |
+| 54 | SVM | StackAbuse |
+| 55 | Time Series Analysis | DataQuest |
+
+Tasks 53–54 run with **NumPy only** (tree / SVM built from scratch: gini splits, hinge-loss gradient descent), so they work even without scikit-learn. The scikit-learn implementations in the style of the linked tutorials are included inside the files as commented code. Task 55 uses pandas (resample + rolling average) on a date-indexed sales series built inside the file.
+
+## Week 07 — Neural Networks / Deep Learning / CNN
+
+| Task | Title | PDF link |
+|---|---|---|
+| 56 | Demonstration of Neural Networks | Analytics Vidhya |
+| 57 | MLP | Machine Learning Mastery |
+| 58 | Feed Forward Neural Networks | Built In |
+| 59 | Neural Network (Loss Functions) | Analytics Vidhya |
+| 60 | Linguistics using Machine Learning | Medium (Towards AI) |
+| 61 | Text Processing | PythonSpot (NLTK) |
+| 62 | Text Analysis | Medium (Towards AI) |
+| 63 | Demonstrate Convolution Neural Network | Towards Data Science |
+| 64 | CNN on CIFAR-10 Dataset | Analytics Vidhya |
+
+Tasks 56–58 run with **NumPy only** (networks built from scratch: XOR backpropagation, an MLP classifier, one forward pass). Task 59 implements the 7 loss functions of the linked guide in NumPy. Tasks 60–62 are pure-Python text work (tokenizing, stop words, simple stemming, word frequency, sentiment by word lists); the NLTK version of Task 61 is included as commented code. Task 63 demonstrates a CNN's convolution + relu + pooling in NumPy; Task 64 shows the CIFAR-10 data-preparation steps in NumPy with the full Keras training code (in the style of the linked tutorial) included as commented code.
+
+---
+
+## Remaining course (not in this delivery)
+Task 65 (Weeks 10–12: Microsoft Azure video lectures) is listed in Annexure-I and can be built in the same format next.
